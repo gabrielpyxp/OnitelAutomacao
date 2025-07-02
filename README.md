@@ -1,4 +1,4 @@
-# OnitelAutomacao
+
 # 📈 Onitel Automação
 
 Este projeto automatiza o download de relatórios do portal de gestão da Onitel, atualiza um banco de dados local SQLite com essas informações e disponibiliza uma interface web (via Flask) para consulta.
@@ -141,4 +141,4 @@ Este projeto foi criado para automatizar o processo manual de baixar relatórios
 
 ---
 
-✍️ **Autor:** [Seu Nome]
+✍️ **Autor:** [Gabriel De Almeida Rocha]
